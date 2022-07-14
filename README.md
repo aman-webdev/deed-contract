@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+This smart contract acts as a legal document where a lawyer can transfer the funds to the beneficiary at the earliest time speicifed during deployment.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Verified Contract : https://rinkeby.etherscan.io/address/0xbE6C9bb35fbeE3cC3c9C17d6878Bcac2455d0c8E#code
