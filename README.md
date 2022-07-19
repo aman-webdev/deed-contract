@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Escrow 👋</h1>
+<h1 align="center">Deed</h1>
 
 > This smart contract acts as a legal document where a lawyer can transfer the funds to the beneficiary at the earliest time speicifed during deployment.
 
